@@ -9,11 +9,6 @@
 
 ## Author Info
 Name: Shrey Patel
-V#: V00900319
-Course: CSC 360
-Section: A1
-Assignment#: 2
-Part#: 3
 
 ## Problem Statement
 This project solves "The Dining Philosopher Problem", which states that K philosophers seated around a circular table with one chopstick between each pair of philosophers. There is one chopstick between each philosopher. A philosopher may eat if he can pickup the two chopsticks adjacent to him. One chopstick may be picked up by any one of its adjacent followers but not both.
@@ -52,4 +47,4 @@ N/A
 * https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/
 
 ## Worked With
-* Amee Gorana (V#: V00882943)
+* Amee Gorana
